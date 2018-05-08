@@ -1,4 +1,4 @@
-package com.example.SpringDependencyInjection;
+package com.example.springdependencyinjection;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
